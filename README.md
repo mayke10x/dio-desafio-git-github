@@ -1,3 +1,3 @@
 # Dio - Desafio de Git e Github
 
-### Este desafio pede para criar um repositório, para práticar os ensinamentos que foram passados durante as aulas.
+### Neste desafio é pedido para ser criado um repositório, afim de ser colocado em prática os ensinamentos que foram passados durante as aulas.
